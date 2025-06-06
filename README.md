@@ -1,0 +1,1 @@
+# ringCT_explained_for_non_devs
